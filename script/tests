@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # simulated testrunner output with one real test -- does the json parse?
 

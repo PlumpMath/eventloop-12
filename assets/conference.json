@@ -1,0 +1,15 @@
+{
+  "conferences": [
+    {
+      "name": "jsconf.eu 2014",
+      "url": "http://2014.jsconf.eu/",
+      "start": "2014-09-11",
+      "stop": "2014-09-11",
+      "cfp": {
+        "opens": "2014-06-01",
+        "closes": "2014-06-20",
+        "url": "http://2014.jsconf.eu/call-for-speakers/"
+      }
+    }
+  ]
+}

@@ -2,11 +2,11 @@
 
 # simulated testrunner output with one real test -- does the json parse?
 
-function indent() {
+function indent {
   echo "   $@"
 }
 
-function bail() {
+function bail {
   echo
   echo "test failed. aborting tests."
   exit 1
